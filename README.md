@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover Splash](https://aboutdavidkim.s3-us-west-1.amazonaws.com/David+H.+Kim.png)
+![Cover Splash](https://aboutdavidkim.s3-us-west-1.amazonaws.com/github-cover.png)
 - :smile: Who Am I: A software engineer and web developer with emphasis on design, funcitonality, and growth.
 - ⚡ Fun fact: I studied and lived in Shanghai, China for a year!
 - :computer: Check out my most recent project: [My Portfolio Website](https://aboutdavidkim.com/)
